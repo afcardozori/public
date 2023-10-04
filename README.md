@@ -1,2 +1,2 @@
-# test
-Test repository of @afcardozori
+# Public repository
+Public repository of @afcardozori
